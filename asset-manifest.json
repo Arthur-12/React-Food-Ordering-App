@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Food-App/static/css/main.6999c4af.chunk.css",
-    "main.js": "/React-Food-App/static/js/main.7caad653.chunk.js",
-    "main.js.map": "/React-Food-App/static/js/main.7caad653.chunk.js.map",
-    "runtime-main.js": "/React-Food-App/static/js/runtime-main.3c4d33f1.js",
-    "runtime-main.js.map": "/React-Food-App/static/js/runtime-main.3c4d33f1.js.map",
-    "static/js/2.c96fb349.chunk.js": "/React-Food-App/static/js/2.c96fb349.chunk.js",
-    "static/js/2.c96fb349.chunk.js.map": "/React-Food-App/static/js/2.c96fb349.chunk.js.map",
-    "index.html": "/React-Food-App/index.html",
-    "static/css/main.6999c4af.chunk.css.map": "/React-Food-App/static/css/main.6999c4af.chunk.css.map",
-    "static/js/2.c96fb349.chunk.js.LICENSE.txt": "/React-Food-App/static/js/2.c96fb349.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/React-Food-App/static/media/meals.2971f633.jpg"
+    "main.css": "/Reacts-Food-App/static/css/main.6999c4af.chunk.css",
+    "main.js": "/Reacts-Food-App/static/js/main.7caad653.chunk.js",
+    "main.js.map": "/Reacts-Food-App/static/js/main.7caad653.chunk.js.map",
+    "runtime-main.js": "/Reacts-Food-App/static/js/runtime-main.93501a58.js",
+    "runtime-main.js.map": "/Reacts-Food-App/static/js/runtime-main.93501a58.js.map",
+    "static/js/2.c96fb349.chunk.js": "/Reacts-Food-App/static/js/2.c96fb349.chunk.js",
+    "static/js/2.c96fb349.chunk.js.map": "/Reacts-Food-App/static/js/2.c96fb349.chunk.js.map",
+    "index.html": "/Reacts-Food-App/index.html",
+    "static/css/main.6999c4af.chunk.css.map": "/Reacts-Food-App/static/css/main.6999c4af.chunk.css.map",
+    "static/js/2.c96fb349.chunk.js.LICENSE.txt": "/Reacts-Food-App/static/js/2.c96fb349.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/Reacts-Food-App/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c4d33f1.js",
+    "static/js/runtime-main.93501a58.js",
     "static/js/2.c96fb349.chunk.js",
     "static/css/main.6999c4af.chunk.css",
     "static/js/main.7caad653.chunk.js"
